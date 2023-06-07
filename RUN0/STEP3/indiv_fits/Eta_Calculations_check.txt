@@ -1,0 +1,3072 @@
+____________________________________
+EtaUp =     0.66
+EtaDown =   0.445
+EtaLow =    0.44
+EtaLower =  0.335
+EtaHigh =   0.665
+EtaHigher = 0.775
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.0888 vs. 1.0888
+w_eta_sb1 = -0.0448399 vs. -0.0448399
+w_eta_sb2 = -0.339942 vs. -0.339942
+
+ Check S0 Region
+Integral = 14377.4
+Manual = 14377.4
+Error = 518.156
+
+ Check S1 Region
+Integral = 291.799
+Manual = 291.799
+Error = 46.3657
+
+ Check S2 Region
+Integral = 725.267
+Manual = 725.267
+Error = 69.8764
+
+ Check B0 Region
+Integral = 685.557
+Manual = 685.557
+Error = 24.9485
+
+ Check B1 Region
+Integral = 284.679
+Manual = 284.679
+Error = 0.000117815
+
+ Check B2 Region
+Integral = 2158.22
+Manual = 2158.22
+Error = 86.9462
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.09262 vs. 1.09262
+w_eta_sb1 = -0.19543 vs. -0.19543
+w_eta_sb2 = -0.641265 vs. -0.641265
+
+ Check S0 Region
+Integral = 15682.7
+Manual = 15682.7
+Error = 198.558
+
+ Check S1 Region
+Integral = 254.35
+Manual = 254.35
+Error = 53.5899
+
+ Check S2 Region
+Integral = 699.759
+Manual = 699.759
+Error = 74.112
+
+ Check B0 Region
+Integral = 1480.25
+Manual = 1480.25
+Error = 19.8809
+
+ Check B1 Region
+Integral = 703.315
+Manual = 703.315
+Error = 7.57589e-05
+
+ Check B2 Region
+Integral = 2307.79
+Manual = 2307.79
+Error = 116.234
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.09447 vs. 1.09447
+w_eta_sb1 = -0.300916 vs. -0.300916
+w_eta_sb2 = -0.792148 vs. -0.792148
+
+ Check S0 Region
+Integral = 15957.3
+Manual = 15957.3
+Error = 231.888
+
+ Check S1 Region
+Integral = 211.446
+Manual = 211.446
+Error = 46.4581
+
+ Check S2 Region
+Integral = 687.695
+Manual = 687.695
+Error = 130.051
+
+ Check B0 Region
+Integral = 2145.84
+Manual = 2145.84
+Error = 90.0422
+
+ Check B1 Region
+Integral = 984.223
+Manual = 984.223
+Error = 0.0081826
+
+ Check B2 Region
+Integral = 2590.92
+Manual = 2590.92
+Error = 154.859
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.01247 vs. 1.01247
+w_eta_sb1 = -0.29345 vs. -0.29345
+w_eta_sb2 = -0.836371 vs. -0.836371
+
+ Check S0 Region
+Integral = 21643.9
+Manual = 21643.9
+Error = 372.294
+
+ Check S1 Region
+Integral = 127.783
+Manual = 127.783
+Error = 37.4625
+
+ Check S2 Region
+Integral = 56.9326
+Manual = 56.9326
+Error = 41.9167
+
+ Check B0 Region
+Integral = 3755.17
+Manual = 3755.17
+Error = 331.629
+
+ Check B1 Region
+Integral = 1420.13
+Manual = 1420.13
+Error = 0.213726
+
+ Check B2 Region
+Integral = 4047.55
+Manual = 4047.55
+Error = 209.448
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.01963 vs. 1.01963
+w_eta_sb1 = -0.316138 vs. -0.316138
+w_eta_sb2 = -0.780369 vs. -0.780369
+
+ Check S0 Region
+Integral = 22422
+Manual = 22422
+Error = 255.616
+
+ Check S1 Region
+Integral = 172.037
+Manual = 172.037
+Error = 29.745
+
+ Check S2 Region
+Integral = 119.981
+Manual = 119.981
+Error = 23.7243
+
+ Check B0 Region
+Integral = 3142.75
+Manual = 3142.75
+Error = 67.2905
+
+ Check B1 Region
+Integral = 1428.99
+Manual = 1428.99
+Error = 0.000560411
+
+ Check B2 Region
+Integral = 3527.39
+Manual = 3527.39
+Error = 123.707
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.0152 vs. 1.0152
+w_eta_sb1 = -0.356465 vs. -0.356465
+w_eta_sb2 = -0.866058 vs. -0.866058
+
+ Check S0 Region
+Integral = 21930.8
+Manual = 21930.8
+Error = 384.427
+
+ Check S1 Region
+Integral = 153.56
+Manual = 153.56
+Error = 28.1143
+
+ Check S2 Region
+Integral = 66.9681
+Manual = 66.9681
+Error = 44.9755
+
+ Check B0 Region
+Integral = 3117.63
+Manual = 3117.63
+Error = 323.39
+
+ Check B1 Region
+Integral = 1286.27
+Manual = 1286.27
+Error = 0.122866
+
+ Check B2 Region
+Integral = 3125.08
+Manual = 3125.08
+Error = 244.624
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.04598 vs. 1.04598
+w_eta_sb1 = -0.492617 vs. -0.492617
+w_eta_sb2 = -0.974574 vs. -0.974574
+
+ Check S0 Region
+Integral = 25959.9
+Manual = 25959.9
+Error = 383.067
+
+ Check S1 Region
+Integral = 163.764
+Manual = 163.764
+Error = 31.4592
+
+ Check S2 Region
+Integral = 480.682
+Manual = 480.682
+Error = 189.602
+
+ Check B0 Region
+Integral = 3294.37
+Manual = 3294.37
+Error = 179.515
+
+ Check B1 Region
+Integral = 1423.5
+Manual = 1423.5
+Error = 0.134026
+
+ Check B2 Region
+Integral = 2816.2
+Manual = 2816.2
+Error = 222.568
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.01664 vs. 1.01664
+w_eta_sb1 = -0.447632 vs. -0.447632
+w_eta_sb2 = -0.946187 vs. -0.946187
+
+ Check S0 Region
+Integral = 24157.2
+Manual = 24157.2
+Error = 387.883
+
+ Check S1 Region
+Integral = 182.511
+Manual = 182.511
+Error = 36.6334
+
+ Check S2 Region
+Integral = 70.7477
+Manual = 70.7477
+Error = 31.6288
+
+ Check B0 Region
+Integral = 3041.52
+Manual = 3041.52
+Error = 294.869
+
+ Check B1 Region
+Integral = 1263.31
+Manual = 1263.31
+Error = 0.434119
+
+ Check B2 Region
+Integral = 2670.33
+Manual = 2670.33
+Error = 96.2773
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.04308 vs. 1.04308
+w_eta_sb1 = -0.569585 vs. -0.569585
+w_eta_sb2 = -0.930362 vs. -0.930362
+
+ Check S0 Region
+Integral = 23071
+Manual = 23071
+Error = 316.692
+
+ Check S1 Region
+Integral = 120.264
+Manual = 120.264
+Error = 25.0579
+
+ Check S2 Region
+Integral = 417.096
+Manual = 417.096
+Error = 239.115
+
+ Check B0 Region
+Integral = 2188.78
+Manual = 2188.78
+Error = 49.6541
+
+ Check B1 Region
+Integral = 1092.78
+Manual = 1092.78
+Error = 0.000129155
+
+ Check B2 Region
+Integral = 1784.95
+Manual = 1784.95
+Error = 308.806
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.04674 vs. 1.04674
+w_eta_sb1 = -0.653845 vs. -0.653845
+w_eta_sb2 = -0.965945 vs. -0.965945
+
+ Check S0 Region
+Integral = 30403.4
+Manual = 30403.4
+Error = 302.175
+
+ Check S1 Region
+Integral = 144.438
+Manual = 144.438
+Error = 38.5552
+
+ Check S2 Region
+Integral = 601.264
+Manual = 601.264
+Error = 288.562
+
+ Check B0 Region
+Integral = 2692.02
+Manual = 2692.02
+Error = 72.571
+
+ Check B1 Region
+Integral = 1354.17
+Manual = 1354.17
+Error = 0.000175126
+
+ Check B2 Region
+Integral = 2000.55
+Manual = 2000.55
+Error = 443.987
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.02019 vs. 1.02019
+w_eta_sb1 = -0.617163 vs. -0.617163
+w_eta_sb2 = -0.963752 vs. -0.963752
+
+ Check S0 Region
+Integral = 24598.6
+Manual = 24598.6
+Error = 272.186
+
+ Check S1 Region
+Integral = 78.1254
+Manual = 78.1254
+Error = 10.2342
+
+ Check S2 Region
+Integral = 188.561
+Manual = 188.561
+Error = 74.4377
+
+ Check B0 Region
+Integral = 2482.38
+Manual = 2482.38
+Error = 40.6286
+
+ Check B1 Region
+Integral = 1193.37
+Manual = 1193.37
+Error = 0.00204497
+
+ Check B2 Region
+Integral = 1863.55
+Manual = 1863.55
+Error = 110.521
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.01499 vs. 1.01499
+w_eta_sb1 = -0.588448 vs. -0.588448
+w_eta_sb2 = -0.960298 vs. -0.960298
+
+ Check S0 Region
+Integral = 20337.5
+Manual = 20337.5
+Error = 318.647
+
+ Check S1 Region
+Integral = 53.8394
+Manual = 53.8394
+Error = 25.0555
+
+ Check S2 Region
+Integral = 111.914
+Manual = 111.914
+Error = 105.721
+
+ Check B0 Region
+Integral = 2086.12
+Manual = 2086.12
+Error = 200.824
+
+ Check B1 Region
+Integral = 982.289
+Manual = 982.289
+Error = 0.00442454
+
+ Check B2 Region
+Integral = 1603.01
+Manual = 1603.01
+Error = 112.881
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.01587 vs. 1.01587
+w_eta_sb1 = -0.765673 vs. -0.765673
+w_eta_sb2 = -1.07517 vs. -1.07517
+
+ Check S0 Region
+Integral = 20733.3
+Manual = 20733.3
+Error = 80.1535
+
+ Check S1 Region
+Integral = 34.3493
+Manual = 34.3493
+Error = 0.87963
+
+ Check S2 Region
+Integral = 129.344
+Manual = 129.344
+Error = 4.57321
+
+ Check B0 Region
+Integral = 2506.62
+Manual = 2506.62
+Error = 13.2409
+
+ Check B1 Region
+Integral = 1119.08
+Manual = 1119.08
+Error = 0.0387893
+
+ Check B2 Region
+Integral = 1571.43
+Manual = 1571.43
+Error = 13.1483
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.02919 vs. 1.02919
+w_eta_sb1 = -0.813129 vs. -0.813129
+w_eta_sb2 = -1.01331 vs. -1.01331
+
+ Check S0 Region
+Integral = 16208.9
+Manual = 16208.9
+Error = 246.276
+
+ Check S1 Region
+Integral = 94.4107
+Manual = 94.4107
+Error = 15.1656
+
+ Check S2 Region
+Integral = 149.998
+Manual = 149.998
+Error = 38.3626
+
+ Check B0 Region
+Integral = 1656.23
+Manual = 1656.23
+Error = 92.9506
+
+ Check B1 Region
+Integral = 821.125
+Manual = 821.125
+Error = 0.000219367
+
+ Check B2 Region
+Integral = 1023.28
+Manual = 1023.28
+Error = 74.155
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.03948 vs. 1.03948
+w_eta_sb1 = -1.01106 vs. -1.01106
+w_eta_sb2 = -1.04083 vs. -1.04083
+
+ Check S0 Region
+Integral = 11226.8
+Manual = 11226.8
+Error = 202.067
+
+ Check S1 Region
+Integral = 24.0227
+Manual = 24.0227
+Error = 4.88946
+
+ Check S2 Region
+Integral = 193.504
+Manual = 193.504
+Error = 117.596
+
+ Check B0 Region
+Integral = 1391.42
+Manual = 1391.42
+Error = 56.1437
+
+ Check B1 Region
+Integral = 694.516
+Manual = 694.516
+Error = 5.93168e-05
+
+ Check B2 Region
+Integral = 714.963
+Manual = 714.963
+Error = 134.928
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.02748 vs. 1.02748
+w_eta_sb1 = -0.911202 vs. -0.911202
+w_eta_sb2 = -1.03005 vs. -1.03005
+
+ Check S0 Region
+Integral = 11455.2
+Manual = 11455.2
+Error = 197.884
+
+ Check S1 Region
+Integral = 41.0538
+Manual = 41.0538
+Error = 11.2985
+
+ Check S2 Region
+Integral = 116.418
+Manual = 116.418
+Error = 17.9135
+
+ Check B0 Region
+Integral = 1596.71
+Manual = 1596.71
+Error = 26.857
+
+ Check B1 Region
+Integral = 790.413
+Manual = 790.413
+Error = 6.82531e-05
+
+ Check B2 Region
+Integral = 893.509
+Manual = 893.509
+Error = 56.9803
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.05396 vs. 1.05396
+w_eta_sb1 = -1.19613 vs. -1.19613
+w_eta_sb2 = -1.02888 vs. -1.02888
+
+ Check S0 Region
+Integral = 6805.87
+Manual = 6805.87
+Error = 158.994
+
+ Check S1 Region
+Integral = 27.8034
+Manual = 27.8034
+Error = 20.2684
+
+ Check S2 Region
+Integral = 150.912
+Manual = 150.912
+Error = 44.0517
+
+ Check B0 Region
+Integral = 1232.24
+Manual = 1232.24
+Error = 0.942217
+
+ Check B1 Region
+Integral = 624.049
+Manual = 624.049
+Error = 4.63671e-05
+
+ Check B2 Region
+Integral = 536.789
+Manual = 536.789
+Error = 39.7346
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.05998 vs. 1.05998
+w_eta_sb1 = -1.15489 vs. -1.15489
+w_eta_sb2 = -1.04013 vs. -1.04013
+
+ Check S0 Region
+Integral = 5208.11
+Manual = 5208.11
+Error = 133.742
+
+ Check S1 Region
+Integral = 34.5856
+Manual = 34.5856
+Error = 14.09
+
+ Check S2 Region
+Integral = 116.589
+Manual = 116.589
+Error = 24.135
+
+ Check B0 Region
+Integral = 782.328
+Manual = 782.328
+Error = 0.0509567
+
+ Check B1 Region
+Integral = 396.455
+Manual = 396.455
+Error = 2.50411e-05
+
+ Check B2 Region
+Integral = 357.06
+Manual = 357.06
+Error = 23.4836
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.05901 vs. 1.05901
+w_eta_sb1 = -1.08037 vs. -1.08037
+w_eta_sb2 = -1.04638 vs. -1.04638
+
+ Check S0 Region
+Integral = 3466.67
+Manual = 3466.67
+Error = 106.035
+
+ Check S1 Region
+Integral = 27.7514
+Manual = 27.7514
+Error = 11.7444
+
+ Check S2 Region
+Integral = 71.7486
+Manual = 71.7486
+Error = 18.5968
+
+ Check B0 Region
+Integral = 589.618
+Manual = 589.618
+Error = 0.590165
+
+ Check B1 Region
+Integral = 298.214
+Manual = 298.214
+Error = 1.48399e-05
+
+ Check B2 Region
+Integral = 288.832
+Manual = 288.832
+Error = 24.871
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.23243 vs. 1.23243
+w_eta_sb1 = -1.32976 vs. -1.32976
+w_eta_sb2 = -1.21235 vs. -1.21234
+
+ Check S0 Region
+Integral = 2171.37
+Manual = 2171.37
+Error = 81.7411
+
+ Check S1 Region
+Integral = 70.0882
+Manual = 70.0882
+Error = 19.5633
+
+ Check S2 Region
+Integral = 154.32
+Manual = 154.32
+Error = 26.4435
+
+ Check B0 Region
+Integral = 322.469
+Manual = 322.469
+Error = 0.662911
+
+ Check B1 Region
+Integral = 163.209
+Manual = 163.208
+Error = 6.12543e-06
+
+ Check B2 Region
+Integral = 148.798
+Manual = 148.798
+Error = 27.9504
+
+---- 
+---- 
+
+____________________________________
+EtaUp =     0.645
+EtaDown =   0.45
+EtaLow =    0.445
+EtaLower =  0.35
+EtaHigh =   0.65
+EtaHigher = 0.75
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.14221 vs. 1.14221
+w_eta_sb1 = -0.147637 vs. -0.147637
+w_eta_sb2 = -0.584838 vs. -0.584838
+
+ Check S0 Region
+Integral = 13351.2
+Manual = 13351.2
+Error = 178.812
+
+ Check S1 Region
+Integral = 303.509
+Manual = 303.509
+Error = 47.1654
+
+ Check S2 Region
+Integral = 978.241
+Manual = 978.241
+Error = 80.94
+
+ Check B0 Region
+Integral = 811.13
+Manual = 811.13
+Error = 16.3293
+
+ Check B1 Region
+Integral = 375.951
+Manual = 375.951
+Error = 9.92957e-05
+
+ Check B2 Region
+Integral = 1489.26
+Manual = 1489.26
+Error = 82.051
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.12876 vs. 1.12876
+w_eta_sb1 = -0.256471 vs. -0.256471
+w_eta_sb2 = -0.750599 vs. -0.750599
+
+ Check S0 Region
+Integral = 14675
+Manual = 14675
+Error = 188.504
+
+ Check S1 Region
+Integral = 260.748
+Manual = 260.748
+Error = 52.8627
+
+ Check S2 Region
+Integral = 892.245
+Manual = 892.245
+Error = 111.793
+
+ Check B0 Region
+Integral = 1358.93
+Manual = 1358.93
+Error = 34.5711
+
+ Check B1 Region
+Integral = 625.266
+Manual = 625.266
+Error = 0.0290784
+
+ Check B2 Region
+Integral = 1829.93
+Manual = 1829.93
+Error = 115.554
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.09854 vs. 1.09854
+w_eta_sb1 = -0.276182 vs. -0.276182
+w_eta_sb2 = -0.737488 vs. -0.737488
+
+ Check S0 Region
+Integral = 15718.7
+Manual = 15718.7
+Error = 195.794
+
+ Check S1 Region
+Integral = 175.542
+Manual = 175.542
+Error = 60.9063
+
+ Check S2 Region
+Integral = 762.496
+Manual = 762.496
+Error = 134.991
+
+ Check B0 Region
+Integral = 1574.5
+Manual = 1574.5
+Error = 8.6362
+
+ Check B1 Region
+Integral = 770.271
+Manual = 770.271
+Error = 0.000139122
+
+ Check B2 Region
+Integral = 2056.85
+Manual = 2056.85
+Error = 157.89
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.0278 vs. 1.0278
+w_eta_sb1 = -0.238071 vs. -0.238071
+w_eta_sb2 = -0.7787 vs. -0.7787
+
+ Check S0 Region
+Integral = 21537
+Manual = 21537
+Error = 263.11
+
+ Check S1 Region
+Integral = 216.971
+Manual = 216.971
+Error = 24.3286
+
+ Check S2 Region
+Integral = 185.597
+Manual = 185.597
+Error = 44.4649
+
+ Check B0 Region
+Integral = 2666.74
+Manual = 2666.74
+Error = 111.327
+
+ Check B1 Region
+Integral = 984.122
+Manual = 984.122
+Error = 0.201136
+
+ Check B2 Region
+Integral = 3218.93
+Manual = 3218.93
+Error = 104.905
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.0268 vs. 1.0268
+w_eta_sb1 = -0.271579 vs. -0.271579
+w_eta_sb2 = -0.741357 vs. -0.741357
+
+ Check S0 Region
+Integral = 21836.2
+Manual = 21836.2
+Error = 246.006
+
+ Check S1 Region
+Integral = 176.427
+Manual = 176.427
+Error = 18.7539
+
+ Check S2 Region
+Integral = 207.222
+Manual = 207.222
+Error = 36.1868
+
+ Check B0 Region
+Integral = 2353.05
+Manual = 2353.05
+Error = 80.3813
+
+ Check B1 Region
+Integral = 1052.62
+Manual = 1052.62
+Error = 0.00271539
+
+ Check B2 Region
+Integral = 2873.44
+Manual = 2873.44
+Error = 96.4109
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.02806 vs. 1.02806
+w_eta_sb1 = -0.320183 vs. -0.320183
+w_eta_sb2 = -0.858702 vs. -0.858702
+
+ Check S0 Region
+Integral = 21565.5
+Manual = 21565.5
+Error = 255.289
+
+ Check S1 Region
+Integral = 159.604
+Manual = 159.604
+Error = 34.0927
+
+ Check S2 Region
+Integral = 212.228
+Manual = 212.228
+Error = 59.3188
+
+ Check B0 Region
+Integral = 2372.7
+Manual = 2372.7
+Error = 98.263
+
+ Check B1 Region
+Integral = 929.909
+Manual = 929.909
+Error = 0.154722
+
+ Check B2 Region
+Integral = 2493.93
+Manual = 2493.93
+Error = 145.776
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.03476 vs. 1.03476
+w_eta_sb1 = -0.306189 vs. -0.306189
+w_eta_sb2 = -0.813384 vs. -0.813384
+
+ Check S0 Region
+Integral = 26059.1
+Manual = 26059.1
+Error = 269.745
+
+ Check S1 Region
+Integral = 240.339
+Manual = 240.339
+Error = 37.9679
+
+ Check S2 Region
+Integral = 326.331
+Manual = 326.331
+Error = 61.9485
+
+ Check B0 Region
+Integral = 2362.22
+Manual = 2362.22
+Error = 81.5465
+
+ Check B1 Region
+Integral = 990.836
+Manual = 990.836
+Error = 0.0740949
+
+ Check B2 Region
+Integral = 2632.13
+Manual = 2632.13
+Error = 100.117
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.0723 vs. 1.0723
+w_eta_sb1 = -0.441069 vs. -0.441069
+w_eta_sb2 = -0.878659 vs. -0.878659
+
+ Check S0 Region
+Integral = 24780
+Manual = 24780
+Error = 255.996
+
+ Check S1 Region
+Integral = 243.513
+Manual = 243.513
+Error = 57.4837
+
+ Check S2 Region
+Integral = 766.878
+Manual = 766.878
+Error = 289.09
+
+ Check B0 Region
+Integral = 1824.14
+Manual = 1824.14
+Error = 36.5389
+
+ Check B1 Region
+Integral = 892.567
+Manual = 892.567
+Error = 0.000185501
+
+ Check B2 Region
+Integral = 1778.09
+Manual = 1778.09
+Error = 156.904
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.03064 vs. 1.03064
+w_eta_sb1 = -0.420468 vs. -0.420468
+w_eta_sb2 = -0.89766 vs. -0.89766
+
+ Check S0 Region
+Integral = 22224.7
+Manual = 22224.7
+Error = 293.945
+
+ Check S1 Region
+Integral = 150.724
+Manual = 150.724
+Error = 21.9939
+
+ Check S2 Region
+Integral = 246.037
+Manual = 246.037
+Error = 73.8215
+
+ Check B0 Region
+Integral = 1856.49
+Manual = 1856.49
+Error = 55.504
+
+ Check B1 Region
+Integral = 818.771
+Manual = 818.771
+Error = 0.061683
+
+ Check B2 Region
+Integral = 1748
+Manual = 1748
+Error = 81.6818
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.04191 vs. 1.04191
+w_eta_sb1 = -0.471779 vs. -0.471779
+w_eta_sb2 = -0.889502 vs. -0.889502
+
+ Check S0 Region
+Integral = 29222.1
+Manual = 29222.1
+Error = 273.68
+
+ Check S1 Region
+Integral = 151.667
+Manual = 151.667
+Error = 54.0289
+
+ Check S2 Region
+Integral = 530.068
+Manual = 530.068
+Error = 101.28
+
+ Check B0 Region
+Integral = 2178.64
+Manual = 2178.64
+Error = 19.1777
+
+ Check B1 Region
+Integral = 1056.35
+Manual = 1056.35
+Error = 0.000222037
+
+ Check B2 Region
+Integral = 1991.66
+Manual = 1991.66
+Error = 68.1554
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.04338 vs. 1.04338
+w_eta_sb1 = -0.614616 vs. -0.614616
+w_eta_sb2 = -1.05596 vs. -1.05596
+
+ Check S0 Region
+Integral = 24062.2
+Manual = 24062.2
+Error = 270.326
+
+ Check S1 Region
+Integral = 108.698
+Manual = 108.698
+Error = 29.313
+
+ Check S2 Region
+Integral = 422.313
+Manual = 422.313
+Error = 120.004
+
+ Check B0 Region
+Integral = 2091.7
+Manual = 2091.7
+Error = 44.9727
+
+ Check B1 Region
+Integral = 898.555
+Manual = 898.555
+Error = 0.136283
+
+ Check B2 Region
+Integral = 1543.78
+Manual = 1543.78
+Error = 104.028
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.03772 vs. 1.03772
+w_eta_sb1 = -0.64827 vs. -0.64827
+w_eta_sb2 = -0.967887 vs. -0.967887
+
+ Check S0 Region
+Integral = 19469.7
+Manual = 19469.7
+Error = 224.555
+
+ Check S1 Region
+Integral = 106.45
+Manual = 106.45
+Error = 19.9191
+
+ Check S2 Region
+Integral = 284.046
+Manual = 284.046
+Error = 26.5873
+
+ Check B0 Region
+Integral = 1557.96
+Manual = 1557.96
+Error = 0.640747
+
+ Check B1 Region
+Integral = 772.317
+Manual = 772.317
+Error = 0.000121047
+
+ Check B2 Region
+Integral = 1153.09
+Manual = 1153.09
+Error = 50.1223
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.03583 vs. 1.03583
+w_eta_sb1 = -0.661541 vs. -0.661541
+w_eta_sb2 = -1.03883 vs. -1.03883
+
+ Check S0 Region
+Integral = 19897.3
+Manual = 19897.3
+Error = 241.285
+
+ Check S1 Region
+Integral = 69.7194
+Manual = 69.7194
+Error = 9.7684
+
+ Check S2 Region
+Integral = 292.87
+Manual = 292.87
+Error = 51.2601
+
+ Check B0 Region
+Integral = 1858.67
+Manual = 1858.67
+Error = 75.4826
+
+ Check B1 Region
+Integral = 839.689
+Manual = 839.689
+Error = 0.0669395
+
+ Check B2 Region
+Integral = 1318.58
+Manual = 1318.58
+Error = 71.3718
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.06002 vs. 1.06002
+w_eta_sb1 = -0.80359 vs. -0.80359
+w_eta_sb2 = -1.03511 vs. -1.03511
+
+ Check S0 Region
+Integral = 14975.2
+Manual = 14975.2
+Error = 239.771
+
+ Check S1 Region
+Integral = 71.7424
+Manual = 71.7424
+Error = 40.4838
+
+ Check S2 Region
+Integral = 378.051
+Manual = 378.051
+Error = 112.92
+
+ Check B0 Region
+Integral = 1284.77
+Manual = 1284.77
+Error = 0.917159
+
+ Check B1 Region
+Integral = 637.307
+Manual = 637.307
+Error = 0.000251138
+
+ Check B2 Region
+Integral = 820.922
+Manual = 820.922
+Error = 71.5333
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.06874 vs. 1.06874
+w_eta_sb1 = -0.992125 vs. -0.992125
+w_eta_sb2 = -1.07354 vs. -1.07354
+
+ Check S0 Region
+Integral = 10674.9
+Manual = 10674.9
+Error = 173.608
+
+ Check S1 Region
+Integral = 38.9948
+Manual = 38.9948
+Error = 5.13924
+
+ Check S2 Region
+Integral = 316.422
+Manual = 316.422
+Error = 57.6771
+
+ Check B0 Region
+Integral = 1041.88
+Manual = 1041.88
+Error = 0.0323342
+
+ Check B1 Region
+Integral = 517
+Manual = 517
+Error = 6.12157e-05
+
+ Check B2 Region
+Integral = 559.428
+Manual = 559.428
+Error = 41.9206
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.05468 vs. 1.05468
+w_eta_sb1 = -0.84134 vs. -0.84134
+w_eta_sb2 = -1.04026 vs. -1.04026
+
+ Check S0 Region
+Integral = 10246
+Manual = 10246
+Error = 6.8393
+
+ Check S1 Region
+Integral = 55.3023
+Manual = 55.3023
+Error = 0.175241
+
+ Check S2 Region
+Integral = 224.701
+Manual = 224.701
+Error = 0.519418
+
+ Check B0 Region
+Integral = 1136.27
+Manual = 1136.27
+Error = 0.0297482
+
+ Check B1 Region
+Integral = 563.284
+Manual = 563.284
+Error = 1.45306e-06
+
+ Check B2 Region
+Integral = 696.459
+Manual = 696.459
+Error = 1.22284
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.06835 vs. 1.06835
+w_eta_sb1 = -0.993283 vs. -0.993283
+w_eta_sb2 = -1.07328 vs. -1.07328
+
+ Check S0 Region
+Integral = 6286.51
+Manual = 6286.51
+Error = 137.146
+
+ Check S1 Region
+Integral = 43.651
+Manual = 43.651
+Error = 13.6126
+
+ Check S2 Region
+Integral = 165.293
+Manual = 165.293
+Error = 26.5634
+
+ Check B0 Region
+Integral = 761.029
+Manual = 761.029
+Error = 0.0301208
+
+ Check B1 Region
+Integral = 377.635
+Manual = 377.635
+Error = 3.89641e-05
+
+ Check B2 Region
+Integral = 408.048
+Manual = 408.048
+Error = 27.8699
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.17862 vs. 1.17862
+w_eta_sb1 = -1.11497 vs. -1.11497
+w_eta_sb2 = -1.18562 vs. -1.18562
+
+ Check S0 Region
+Integral = 4278.29
+Manual = 4278.29
+Error = 2.23813
+
+ Check S1 Region
+Integral = 107.239
+Manual = 107.239
+Error = 0.213925
+
+ Check S2 Region
+Integral = 245.864
+Manual = 245.864
+Error = 0.406884
+
+ Check B0 Region
+Integral = 455.608
+Manual = 455.608
+Error = 0.00202424
+
+ Check B1 Region
+Integral = 226.032
+Manual = 226.032
+Error = 2.22986e-07
+
+ Check B2 Region
+Integral = 240.354
+Manual = 240.354
+Error = 0.425372
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.20168 vs. 1.20168
+w_eta_sb1 = -1.08861 vs. -1.08861
+w_eta_sb2 = -1.20501 vs. -1.20501
+
+ Check S0 Region
+Integral = 2930.21
+Manual = 2930.21
+Error = 88.8934
+
+ Check S1 Region
+Integral = 94.9669
+Manual = 94.9669
+Error = 23.4194
+
+ Check S2 Region
+Integral = 178.053
+Manual = 178.053
+Error = 31.961
+
+ Check B0 Region
+Integral = 280.591
+Manual = 280.591
+Error = 0.238087
+
+ Check B1 Region
+Integral = 139.189
+Manual = 139.189
+Error = 9.9008e-06
+
+ Check B2 Region
+Integral = 154.071
+Manual = 154.071
+Error = 25.6887
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.3212 vs. 1.3212
+w_eta_sb1 = -1.34501 vs. -1.345
+w_eta_sb2 = -1.3354 vs. -1.33539
+
+ Check S0 Region
+Integral = 1440.12
+Manual = 1440.12
+Error = 65.6503
+
+ Check S1 Region
+Integral = 88.2343
+Manual = 88.2343
+Error = 18.8645
+
+ Check S2 Region
+Integral = 109.473
+Manual = 109.473
+Error = 20.1906
+
+ Check B0 Region
+Integral = 172.961
+Manual = 172.961
+Error = 1.23142
+
+ Check B1 Region
+Integral = 85.5597
+Manual = 85.5592
+Error = 7.00498e-06
+
+ Check B2 Region
+Integral = 84.9482
+Manual = 84.9482
+Error = 11.7778
+
+---- 
+---- 
+
+____________________________________
+EtaUp =     0.65
+EtaDown =   0.455
+EtaLow =    0.45
+EtaLower =  0.355
+EtaHigh =   0.655
+EtaHigher = 0.755
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.13134 vs. 1.13134
+w_eta_sb1 = -0.132026 vs. -0.132026
+w_eta_sb2 = -0.56727 vs. -0.56727
+
+ Check S0 Region
+Integral = 12243.8
+Manual = 12243.8
+Error = 205.016
+
+ Check S1 Region
+Integral = 249.557
+Manual = 249.557
+Error = 67.6485
+
+ Check S2 Region
+Integral = 845.839
+Manual = 845.839
+Error = 85.2389
+
+ Check B0 Region
+Integral = 883.91
+Manual = 883.91
+Error = 29.7462
+
+ Check B1 Region
+Integral = 389.201
+Manual = 389.201
+Error = 0.00250641
+
+ Check B2 Region
+Integral = 1672.26
+Manual = 1672.26
+Error = 102.616
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.03411 vs. 1.03411
+w_eta_sb1 = -0.140854 vs. -0.140854
+w_eta_sb2 = -0.671818 vs. -0.671818
+
+ Check S0 Region
+Integral = 13094.9
+Manual = 13094.9
+Error = 200.508
+
+ Check S1 Region
+Integral = 217.448
+Manual = 217.448
+Error = 53.0744
+
+ Check S2 Region
+Integral = 118.764
+Manual = 118.764
+Error = 27.9865
+
+ Check B0 Region
+Integral = 1724.7
+Manual = 1724.7
+Error = 56.7014
+
+ Check B1 Region
+Integral = 533.166
+Manual = 533.166
+Error = 0.101655
+
+ Check B2 Region
+Integral = 2542.98
+Manual = 2542.98
+Error = 69.4744
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.04686 vs. 1.04686
+w_eta_sb1 = -0.200936 vs. -0.200936
+w_eta_sb2 = -0.66262 vs. -0.66262
+
+ Check S0 Region
+Integral = 14238.9
+Manual = 14238.9
+Error = 692.927
+
+ Check S1 Region
+Integral = 77.9762
+Manual = 77.9762
+Error = 25.8163
+
+ Check S2 Region
+Integral = 344.949
+Manual = 344.949
+Error = 360.868
+
+ Check B0 Region
+Integral = 1416.43
+Manual = 1416.43
+Error = 330.517
+
+ Check B1 Region
+Integral = 621.447
+Manual = 621.447
+Error = 0.137728
+
+ Check B2 Region
+Integral = 2049.32
+Manual = 2049.32
+Error = 706.853
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.03483 vs. 1.03483
+w_eta_sb1 = -0.194918 vs. -0.194918
+w_eta_sb2 = -0.64847 vs. -0.64847
+
+ Check S0 Region
+Integral = 20186.1
+Manual = 20186.1
+Error = 256.098
+
+ Check S1 Region
+Integral = 167.245
+Manual = 167.245
+Error = 38.6727
+
+ Check S2 Region
+Integral = 305.337
+Manual = 305.337
+Error = 64.6678
+
+ Check B0 Region
+Integral = 1910.06
+Manual = 1910.06
+Error = 64.9169
+
+ Check B1 Region
+Integral = 840.279
+Manual = 840.279
+Error = 0.00451785
+
+ Check B2 Region
+Integral = 2795.52
+Manual = 2795.52
+Error = 122.589
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.05466 vs. 1.05466
+w_eta_sb1 = -0.214372 vs. -0.214372
+w_eta_sb2 = -0.65338 vs. -0.65338
+
+ Check S0 Region
+Integral = 21365.4
+Manual = 21365.4
+Error = 245.563
+
+ Check S1 Region
+Integral = 270.155
+Manual = 270.155
+Error = 59.025
+
+ Check S2 Region
+Integral = 507.878
+Manual = 507.878
+Error = 351.703
+
+ Check B0 Region
+Integral = 1539.37
+Manual = 1539.37
+Error = 80.9722
+
+ Check B1 Region
+Integral = 736.021
+Manual = 736.021
+Error = 0.000239249
+
+ Check B2 Region
+Integral = 2243.3
+Manual = 2243.3
+Error = 355.735
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.02567 vs. 1.02567
+w_eta_sb1 = -0.186139 vs. -0.186139
+w_eta_sb2 = -0.645363 vs. -0.645363
+
+ Check S0 Region
+Integral = 20564.5
+Manual = 20564.5
+Error = 250.499
+
+ Check S1 Region
+Integral = 190.004
+Manual = 190.004
+Error = 27.7818
+
+ Check S2 Region
+Integral = 183.892
+Manual = 183.892
+Error = 53.4988
+
+ Check B0 Region
+Integral = 1547.86
+Manual = 1547.86
+Error = 87.346
+
+ Check B1 Region
+Integral = 655.038
+Manual = 655.038
+Error = 0.0215864
+
+ Check B2 Region
+Integral = 2271.08
+Manual = 2271.08
+Error = 97.4005
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.02744 vs. 1.02744
+w_eta_sb1 = -0.245917 vs. -0.245917
+w_eta_sb2 = -0.736689 vs. -0.736689
+
+ Check S0 Region
+Integral = 24960.6
+Manual = 24960.6
+Error = 376.286
+
+ Check S1 Region
+Integral = 134.21
+Manual = 134.21
+Error = 24.7875
+
+ Check S2 Region
+Integral = 298.086
+Manual = 298.086
+Error = 240.695
+
+ Check B0 Region
+Integral = 1940.31
+Manual = 1940.31
+Error = 120.311
+
+ Check B1 Region
+Integral = 812.761
+Manual = 812.761
+Error = 0.0406906
+
+ Check B2 Region
+Integral = 2434.78
+Manual = 2434.78
+Error = 200.709
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.03955 vs. 1.03955
+w_eta_sb1 = -0.291286 vs. -0.291286
+w_eta_sb2 = -0.794347 vs. -0.794347
+
+ Check S0 Region
+Integral = 23560.9
+Manual = 23560.9
+Error = 270.084
+
+ Check S1 Region
+Integral = 248.667
+Manual = 248.667
+Error = 34.8365
+
+ Check S2 Region
+Integral = 340.407
+Manual = 340.407
+Error = 55.8153
+
+ Check B0 Region
+Integral = 1598.54
+Manual = 1598.54
+Error = 114.202
+
+ Check B1 Region
+Integral = 676.205
+Manual = 676.205
+Error = 0.0530109
+
+ Check B2 Region
+Integral = 1844.03
+Manual = 1844.03
+Error = 96.1583
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.03133 vs. 1.03133
+w_eta_sb1 = -0.352642 vs. -0.352642
+w_eta_sb2 = -0.873819 vs. -0.873819
+
+ Check S0 Region
+Integral = 21393.3
+Manual = 21393.3
+Error = 245.068
+
+ Check S1 Region
+Integral = 136.24
+Manual = 136.24
+Error = 38.797
+
+ Check S2 Region
+Integral = 259.348
+Manual = 259.348
+Error = 79.6829
+
+ Check B0 Region
+Integral = 1657.33
+Manual = 1657.33
+Error = 81.9535
+
+ Check B1 Region
+Integral = 678.841
+Manual = 678.841
+Error = 0.104942
+
+ Check B2 Region
+Integral = 1682.11
+Manual = 1682.11
+Error = 127.401
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.0474 vs. 1.0474
+w_eta_sb1 = -0.510253 vs. -0.510253
+w_eta_sb2 = -0.90692 vs. -0.90692
+
+ Check S0 Region
+Integral = 27839.7
+Manual = 27839.7
+Error = 269.285
+
+ Check S1 Region
+Integral = 125.832
+Manual = 125.832
+Error = 13.8313
+
+ Check S2 Region
+Integral = 592.385
+Manual = 592.385
+Error = 106.858
+
+ Check B0 Region
+Integral = 1877.87
+Manual = 1877.87
+Error = 11.9734
+
+ Check B1 Region
+Integral = 926.814
+Manual = 926.814
+Error = 0.000272237
+
+ Check B2 Region
+Integral = 1647.31
+Manual = 1647.31
+Error = 86.1471
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.02813 vs. 1.02813
+w_eta_sb1 = -0.483912 vs. -0.483912
+w_eta_sb2 = -0.924681 vs. -0.924681
+
+ Check S0 Region
+Integral = 22471.2
+Manual = 22471.2
+Error = 257.277
+
+ Check S1 Region
+Integral = 126.218
+Manual = 126.218
+Error = 17.6289
+
+ Check S2 Region
+Integral = 231.167
+Manual = 231.167
+Error = 33.9583
+
+ Check B0 Region
+Integral = 1678.08
+Manual = 1678.08
+Error = 44.6119
+
+ Check B1 Region
+Integral = 766.513
+Manual = 766.513
+Error = 0.00447642
+
+ Check B2 Region
+Integral = 1464.69
+Manual = 1464.69
+Error = 75.9567
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.02109 vs. 1.02109
+w_eta_sb1 = -0.459012 vs. -0.459012
+w_eta_sb2 = -0.992624 vs. -0.992624
+
+ Check S0 Region
+Integral = 18350.7
+Manual = 18350.7
+Error = 223.424
+
+ Check S1 Region
+Integral = 109.693
+Manual = 109.693
+Error = 10.1506
+
+ Check S2 Region
+Integral = 113.876
+Manual = 113.876
+Error = 14.3881
+
+ Check B0 Region
+Integral = 1516.41
+Manual = 1516.41
+Error = 75.4827
+
+ Check B1 Region
+Integral = 594.258
+Manual = 594.258
+Error = 0.467046
+
+ Check B2 Region
+Integral = 1285.1
+Manual = 1285.1
+Error = 66.9166
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.02653 vs. 1.02653
+w_eta_sb1 = -0.593902 vs. -0.593902
+w_eta_sb2 = -0.990198 vs. -0.990198
+
+ Check S0 Region
+Integral = 18874.8
+Manual = 18874.8
+Error = 223.326
+
+ Check S1 Region
+Integral = 106.838
+Manual = 106.838
+Error = 12.4879
+
+ Check S2 Region
+Integral = 166.088
+Manual = 166.088
+Error = 16.4884
+
+ Check B0 Region
+Integral = 1512.19
+Manual = 1512.19
+Error = 39.0686
+
+ Check B1 Region
+Integral = 691.508
+Manual = 691.508
+Error = 0.0035379
+
+ Check B2 Region
+Integral = 1152.93
+Manual = 1152.93
+Error = 58.2909
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.06632 vs. 1.06632
+w_eta_sb1 = -1.00988 vs. -1.00988
+w_eta_sb2 = -1.07094 vs. -1.07094
+
+ Check S0 Region
+Integral = 13688.1
+Manual = 13688.1
+Error = 190.121
+
+ Check S1 Region
+Integral = 65.8976
+Manual = 65.8976
+Error = 7.34447
+
+ Check S2 Region
+Integral = 374.414
+Manual = 374.414
+Error = 54.6637
+
+ Check B0 Region
+Integral = 1108.35
+Manual = 1108.35
+Error = 0.0778099
+
+ Check B1 Region
+Integral = 550.838
+Manual = 550.838
+Error = 0.000106136
+
+ Check B2 Region
+Integral = 584.145
+Manual = 584.145
+Error = 37.0957
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.03522 vs. 1.03522
+w_eta_sb1 = -0.672473 vs. -0.672473
+w_eta_sb2 = -0.987767 vs. -0.987767
+
+ Check S0 Region
+Integral = 9827.17
+Manual = 9827.17
+Error = 14.6433
+
+ Check S1 Region
+Integral = 59.6731
+Manual = 59.6731
+Error = 0.470574
+
+ Check S2 Region
+Integral = 123.923
+Manual = 123.923
+Error = 0.860364
+
+ Check B0 Region
+Integral = 824.562
+Manual = 824.562
+Error = 0.816056
+
+ Check B1 Region
+Integral = 402.006
+Manual = 402.006
+Error = 3.15028e-06
+
+ Check B2 Region
+Integral = 590.489
+Manual = 590.489
+Error = 2.44218
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.06354 vs. 1.06354
+w_eta_sb1 = -0.855365 vs. -0.855365
+w_eta_sb2 = -1.04858 vs. -1.04858
+
+ Check S0 Region
+Integral = 9186.07
+Manual = 9186.07
+Error = 191.196
+
+ Check S1 Region
+Integral = 56.6424
+Manual = 56.6424
+Error = 30.2537
+
+ Check S2 Region
+Integral = 233.634
+Manual = 233.634
+Error = 175.429
+
+ Check B0 Region
+Integral = 899.145
+Manual = 899.145
+Error = 1.46366
+
+ Check B1 Region
+Integral = 446.69
+Manual = 446.69
+Error = 7.95187e-05
+
+ Check B2 Region
+Integral = 547.593
+Manual = 547.593
+Error = 244.929
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.1432 vs. 1.1432
+w_eta_sb1 = -1.07649 vs. -1.07649
+w_eta_sb2 = -1.14777 vs. -1.14777
+
+ Check S0 Region
+Integral = 5791.87
+Manual = 5791.87
+Error = 124.205
+
+ Check S1 Region
+Integral = 121.929
+Manual = 121.929
+Error = 27.7844
+
+ Check S2 Region
+Integral = 268.296
+Manual = 268.296
+Error = 37.8071
+
+ Check B0 Region
+Integral = 472.16
+Manual = 472.16
+Error = 0.0173827
+
+ Check B1 Region
+Integral = 234.658
+Manual = 234.658
+Error = 3.13357e-05
+
+ Check B2 Region
+Integral = 250.197
+Manual = 250.197
+Error = 22.4225
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.15545 vs. 1.15545
+w_eta_sb1 = -0.634124 vs. -0.634124
+w_eta_sb2 = -1.11775 vs. -1.11775
+
+ Check S0 Region
+Integral = 3536.19
+Manual = 3536.19
+Error = 101.256
+
+ Check S1 Region
+Integral = 146.665
+Manual = 146.665
+Error = 43.9988
+
+ Check S2 Region
+Integral = 146.401
+Manual = 146.401
+Error = 28.3993
+
+ Check B0 Region
+Integral = 287.02
+Manual = 287.02
+Error = 25.5997
+
+ Check B1 Region
+Integral = 127.34
+Manual = 127.34
+Error = 0.0523152
+
+ Check B2 Region
+Integral = 224.458
+Manual = 224.458
+Error = 42.9429
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.29218 vs. 1.29218
+w_eta_sb1 = -1.47016 vs. -1.47016
+w_eta_sb2 = -1.2888 vs. -1.2888
+
+ Check S0 Region
+Integral = 2038.81
+Manual = 2038.81
+Error = 75.4234
+
+ Check S1 Region
+Integral = 134.39
+Manual = 134.39
+Error = 22.0516
+
+ Check S2 Region
+Integral = 115.23
+Manual = 115.23
+Error = 21.4161
+
+ Check B0 Region
+Integral = 183.446
+Manual = 183.446
+Error = 0.00201489
+
+ Check B1 Region
+Integral = 91.1724
+Manual = 91.1724
+Error = 7.62851e-06
+
+ Check B2 Region
+Integral = 79.9253
+Manual = 79.9253
+Error = 0.00616006
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.30598 vs. 1.30598
+w_eta_sb1 = -1.29798 vs. -1.29798
+w_eta_sb2 = -1.31378 vs. -1.31378
+
+ Check S0 Region
+Integral = 1083.45
+Manual = 1083.45
+Error = 55.2532
+
+ Check S1 Region
+Integral = 89.9894
+Manual = 89.9894
+Error = 15.3011
+
+ Check S2 Region
+Integral = 53.904
+Manual = 53.904
+Error = 13.0111
+
+ Check B0 Region
+Integral = 131.496
+Manual = 131.496
+Error = 0.000692019
+
+ Check B1 Region
+Integral = 65.3533
+Manual = 65.3533
+Error = 4.68349e-06
+
+ Check B2 Region
+Integral = 66.1485
+Manual = 66.1485
+Error = 7.47487
+
+---- 
+---- 
+
+____________________________________
+EtaUp =     0.655
+EtaDown =   0.46
+EtaLow =    0.455
+EtaLower =  0.36
+EtaHigh =   0.66
+EtaHigher = 0.76
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.07839 vs. 1.07839
+w_eta_sb1 = -0.126852 vs. -0.126852
+w_eta_sb2 = -0.62272 vs. -0.62272
+
+ Check S0 Region
+Integral = 11350.8
+Manual = 11350.8
+Error = 211.439
+
+ Check S1 Region
+Integral = 103.584
+Manual = 103.584
+Error = 29.5624
+
+ Check S2 Region
+Integral = 476.4
+Manual = 476.4
+Error = 137.17
+
+ Check B0 Region
+Integral = 1309.47
+Manual = 1309.47
+Error = 98.8843
+
+ Check B1 Region
+Integral = 443.532
+Manual = 443.532
+Error = 0.151988
+
+ Check B2 Region
+Integral = 2177.31
+Manual = 2177.31
+Error = 146.823
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.05288 vs. 1.05288
+w_eta_sb1 = -0.114781 vs. -0.114781
+w_eta_sb2 = -0.500805 vs. -0.500805
+
+ Check S0 Region
+Integral = 13463.8
+Manual = 13463.8
+Error = 202.145
+
+ Check S1 Region
+Integral = 127.821
+Manual = 127.821
+Error = 49.9174
+
+ Check S2 Region
+Integral = 379.402
+Manual = 379.402
+Error = 265.525
+
+ Check B0 Region
+Integral = 1155.43
+Manual = 1155.43
+Error = 89.3304
+
+ Check B1 Region
+Integral = 528.955
+Manual = 528.955
+Error = 0.000516943
+
+ Check B2 Region
+Integral = 2307.9
+Manual = 2307.9
+Error = 218.389
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.01698 vs. 1.01698
+w_eta_sb1 = -0.134145 vs. -0.134145
+w_eta_sb2 = -0.603353 vs. -0.603353
+
+ Check S0 Region
+Integral = 14333.8
+Manual = 14333.8
+Error = 375.18
+
+ Check S1 Region
+Integral = 72.0649
+Manual = 72.0649
+Error = 29.2816
+
+ Check S2 Region
+Integral = 100.813
+Manual = 100.813
+Error = 47.1776
+
+ Check B0 Region
+Integral = 1459.16
+Manual = 1459.16
+Error = 175.659
+
+ Check B1 Region
+Integral = 521.065
+Manual = 521.065
+Error = 0.206395
+
+ Check B2 Region
+Integral = 2343.63
+Manual = 2343.63
+Error = 447.104
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.06724 vs. 1.06724
+w_eta_sb1 = -0.175009 vs. -0.175009
+w_eta_sb2 = -0.65325 vs. -0.65325
+
+ Check S0 Region
+Integral = 21234.6
+Manual = 21234.6
+Error = 239.603
+
+ Check S1 Region
+Integral = 204.31
+Manual = 204.31
+Error = 56.7622
+
+ Check S2 Region
+Integral = 718.454
+Manual = 718.454
+Error = 181.546
+
+ Check B0 Region
+Integral = 1569.92
+Manual = 1569.92
+Error = 26.1908
+
+ Check B1 Region
+Integral = 641.12
+Manual = 641.12
+Error = 0.00784169
+
+ Check B2 Region
+Integral = 2393.08
+Manual = 2393.08
+Error = 89.213
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.0264 vs. 1.0264
+w_eta_sb1 = -0.135578 vs. -0.135578
+w_eta_sb2 = -0.581185 vs. -0.581185
+
+ Check S0 Region
+Integral = 21765.3
+Manual = 21765.3
+Error = 258.952
+
+ Check S1 Region
+Integral = 178.089
+Manual = 178.089
+Error = 42.6453
+
+ Check S2 Region
+Integral = 235.532
+Manual = 235.532
+Error = 58.4798
+
+ Check B0 Region
+Integral = 1634.04
+Manual = 1634.04
+Error = 108.926
+
+ Check B1 Region
+Integral = 638.451
+Manual = 638.451
+Error = 0.0114504
+
+ Check B2 Region
+Integral = 2736.86
+Manual = 2736.86
+Error = 134.987
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.08638 vs. 1.08638
+w_eta_sb1 = -0.294256 vs. -0.294256
+w_eta_sb2 = -0.755863 vs. -0.755863
+
+ Check S0 Region
+Integral = 21707.4
+Manual = 21707.4
+Error = 238.617
+
+ Check S1 Region
+Integral = 208.603
+Manual = 208.603
+Error = 47.9198
+
+ Check S2 Region
+Integral = 914.188
+Manual = 914.188
+Error = 151.564
+
+ Check B0 Region
+Integral = 1301.79
+Manual = 1301.79
+Error = 13.3999
+
+ Check B1 Region
+Integral = 632.528
+Manual = 632.528
+Error = 0.00024803
+
+ Check B2 Region
+Integral = 1624.79
+Manual = 1624.79
+Error = 119.78
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.02058 vs. 1.02058
+w_eta_sb1 = -0.173312 vs. -0.173312
+w_eta_sb2 = -0.670611 vs. -0.670611
+
+ Check S0 Region
+Integral = 25899.4
+Manual = 25899.4
+Error = 290.339
+
+ Check S1 Region
+Integral = 200.627
+Manual = 200.627
+Error = 43.9922
+
+ Check S2 Region
+Integral = 178.149
+Manual = 178.149
+Error = 46.7446
+
+ Check B0 Region
+Integral = 1781.41
+Manual = 1781.41
+Error = 141.608
+
+ Check B1 Region
+Integral = 656.778
+Manual = 656.778
+Error = 0.0726698
+
+ Check B2 Region
+Integral = 2541.33
+Manual = 2541.33
+Error = 142.474
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.02882 vs. 1.02882
+w_eta_sb1 = -0.242588 vs. -0.242588
+w_eta_sb2 = -0.811885 vs. -0.811885
+
+ Check S0 Region
+Integral = 24024.3
+Manual = 24024.3
+Error = 295.732
+
+ Check S1 Region
+Integral = 248.291
+Manual = 248.291
+Error = 45.9354
+
+ Check S2 Region
+Integral = 211.823
+Manual = 211.823
+Error = 101.101
+
+ Check B0 Region
+Integral = 1681.38
+Manual = 1681.38
+Error = 81.8666
+
+ Check B1 Region
+Integral = 584.445
+Manual = 584.445
+Error = 0.250924
+
+ Check B2 Region
+Integral = 1956
+Manual = 1956
+Error = 129.243
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.06627 vs. 1.06627
+w_eta_sb1 = -0.410685 vs. -0.410685
+w_eta_sb2 = -0.846735 vs. -0.846735
+
+ Check S0 Region
+Integral = 22474.3
+Manual = 22474.3
+Error = 236.429
+
+ Check S1 Region
+Integral = 179.603
+Manual = 179.603
+Error = 28.883
+
+ Check S2 Region
+Integral = 669.304
+Manual = 669.304
+Error = 154.16
+
+ Check B0 Region
+Integral = 1152.32
+Manual = 1152.32
+Error = 5.06143
+
+ Check B1 Region
+Integral = 569.772
+Manual = 569.772
+Error = 0.000201035
+
+ Check B2 Region
+Integral = 1174.73
+Manual = 1174.73
+Error = 147.321
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.03994 vs. 1.03994
+w_eta_sb1 = -0.375755 vs. -0.375755
+w_eta_sb2 = -0.81497 vs. -0.81497
+
+ Check S0 Region
+Integral = 28975.9
+Manual = 28975.9
+Error = 27.873
+
+ Check S1 Region
+Integral = 168.009
+Manual = 168.009
+Error = 0.898009
+
+ Check S2 Region
+Integral = 510.299
+Manual = 510.299
+Error = 5.68994
+
+ Check B0 Region
+Integral = 1636.87
+Manual = 1636.87
+Error = 1.07011
+
+ Check B1 Region
+Integral = 794.205
+Manual = 794.205
+Error = 1.67947e-05
+
+ Check B2 Region
+Integral = 1722.54
+Manual = 1722.54
+Error = 5.50515
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.0288 vs. 1.0288
+w_eta_sb1 = -0.379014 vs. -0.379014
+w_eta_sb2 = -0.857222 vs. -0.857222
+
+ Check S0 Region
+Integral = 23806
+Manual = 23806
+Error = 25.6331
+
+ Check S1 Region
+Integral = 206.032
+Manual = 206.032
+Error = 0.989897
+
+ Check S2 Region
+Integral = 216.22
+Manual = 216.22
+Error = 1.04151
+
+ Check B0 Region
+Integral = 1497.52
+Manual = 1497.52
+Error = 2.54893
+
+ Check B1 Region
+Integral = 664.705
+Manual = 664.705
+Error = 0.000153892
+
+ Check B2 Region
+Integral = 1503.37
+Manual = 1503.37
+Error = 3.73368
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.02587 vs. 1.02587
+w_eta_sb1 = -0.459595 vs. -0.459595
+w_eta_sb2 = -0.998334 vs. -0.998334
+
+ Check S0 Region
+Integral = 18518.8
+Manual = 18518.8
+Error = 219.487
+
+ Check S1 Region
+Integral = 118.936
+Manual = 118.936
+Error = 25.0649
+
+ Check S2 Region
+Integral = 152.838
+Manual = 152.838
+Error = 18.7997
+
+ Check B0 Region
+Integral = 1425.5
+Manual = 1425.5
+Error = 66.5939
+
+ Check B1 Region
+Integral = 556.418
+Manual = 556.418
+Error = 0.316658
+
+ Check B2 Region
+Integral = 1208.65
+Manual = 1208.65
+Error = 64.5927
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.03627 vs. 1.03627
+w_eta_sb1 = -0.644321 vs. -0.644321
+w_eta_sb2 = -0.993654 vs. -0.993654
+
+ Check S0 Region
+Integral = 18686.4
+Manual = 18686.4
+Error = 237.225
+
+ Check S1 Region
+Integral = 72.6719
+Manual = 72.6719
+Error = 39.4526
+
+ Check S2 Region
+Integral = 280.065
+Manual = 280.065
+Error = 186.905
+
+ Check B0 Region
+Integral = 1345.33
+Manual = 1345.33
+Error = 82.616
+
+ Check B1 Region
+Integral = 640.479
+Manual = 640.479
+Error = 0.00341717
+
+ Check B2 Region
+Integral = 987.729
+Manual = 987.729
+Error = 166.328
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.07414 vs. 1.07414
+w_eta_sb1 = -0.67575 vs. -0.67575
+w_eta_sb2 = -1.00175 vs. -1.00175
+
+ Check S0 Region
+Integral = 13576.3
+Manual = 13576.3
+Error = 187.609
+
+ Check S1 Region
+Integral = 144.161
+Manual = 144.161
+Error = 34.2431
+
+ Check S2 Region
+Integral = 382.142
+Manual = 382.142
+Error = 115.036
+
+ Check B0 Region
+Integral = 894.905
+Manual = 894.905
+Error = 1.72828
+
+ Check B1 Region
+Integral = 444.866
+Manual = 444.866
+Error = 0.000119531
+
+ Check B2 Region
+Integral = 659.48
+Manual = 659.48
+Error = 115.161
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.0445 vs. 1.0445
+w_eta_sb1 = -0.669059 vs. -0.669059
+w_eta_sb2 = -0.97908 vs. -0.97908
+
+ Check S0 Region
+Integral = 9275.78
+Manual = 9275.78
+Error = 157.213
+
+ Check S1 Region
+Integral = 60.111
+Manual = 60.111
+Error = 47.6237
+
+ Check S2 Region
+Integral = 157.856
+Manual = 157.856
+Error = 58.1348
+
+ Check B0 Region
+Integral = 702.185
+Manual = 702.185
+Error = 0.997522
+
+ Check B1 Region
+Integral = 348.951
+Manual = 348.951
+Error = 7.53655e-05
+
+ Check B2 Region
+Integral = 510.644
+Manual = 510.644
+Error = 79.8579
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.05743 vs. 1.05743
+w_eta_sb1 = -0.750057 vs. -0.750057
+w_eta_sb2 = -1.09133 vs. -1.09133
+
+ Check S0 Region
+Integral = 8433.8
+Manual = 8433.8
+Error = 152.931
+
+ Check S1 Region
+Integral = 105.626
+Manual = 105.626
+Error = 23.5473
+
+ Check S2 Region
+Integral = 143.2
+Manual = 143.2
+Error = 25.592
+
+ Check B0 Region
+Integral = 772.68
+Manual = 772.68
+Error = 39.7652
+
+ Check B1 Region
+Integral = 349.475
+Manual = 349.475
+Error = 0.0607606
+
+ Check B2 Region
+Integral = 508.486
+Manual = 508.486
+Error = 46.2911
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.16614 vs. 1.16614
+w_eta_sb1 = -0.714387 vs. -0.714387
+w_eta_sb2 = -1.08773 vs. -1.08773
+
+ Check S0 Region
+Integral = 5174.79
+Manual = 5174.79
+Error = 116.359
+
+ Check S1 Region
+Integral = 238.92
+Manual = 238.92
+Error = 33.0304
+
+ Check S2 Region
+Integral = 215.61
+Manual = 215.61
+Error = 36.1487
+
+ Check B0 Region
+Integral = 275.642
+Manual = 275.642
+Error = 5.3868
+
+ Check B1 Region
+Integral = 135.595
+Manual = 135.595
+Error = 2.3258e-05
+
+ Check B2 Region
+Integral = 206.458
+Manual = 206.458
+Error = 30.1473
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.06648 vs. 1.06648
+w_eta_sb1 = -0.273249 vs. -0.273249
+w_eta_sb2 = -0.758434 vs. -0.758434
+
+ Check S0 Region
+Integral = 3203.4
+Manual = 3203.4
+Error = 90.3546
+
+ Check S1 Region
+Integral = 104.525
+Manual = 104.525
+Error = 17.7903
+
+ Check S2 Region
+Integral = 45.427
+Manual = 45.427
+Error = 8.51045
+
+ Check B0 Region
+Integral = 189.675
+Manual = 189.675
+Error = 11.5365
+
+ Check B1 Region
+Integral = 85.0519
+Manual = 85.0519
+Error = 9.72069e-06
+
+ Check B2 Region
+Integral = 236.072
+Manual = 236.072
+Error = 26.2999
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.304 vs. 1.304
+w_eta_sb1 = -0.898732 vs. -0.898732
+w_eta_sb2 = -1.24322 vs. -1.24322
+
+ Check S0 Region
+Integral = 1736.45
+Manual = 1736.45
+Error = 71.2684
+
+ Check S1 Region
+Integral = 156.043
+Manual = 156.043
+Error = 22.8334
+
+ Check S2 Region
+Integral = 103.242
+Manual = 103.242
+Error = 58.1189
+
+ Check B0 Region
+Integral = 106.382
+Manual = 106.382
+Error = 8.47935
+
+ Check B1 Region
+Integral = 52.9779
+Manual = 52.9779
+Error = 4.98456e-06
+
+ Check B2 Region
+Integral = 73.2848
+Manual = 73.2848
+Error = 113.06
+
+---- 
+---- 
+
+/////////////////// Weights using manual calculations vs. fit integrals ///////////////////
+w_eta_sig = 1.37832 vs. 1.37832
+w_eta_sb1 = -1.18082 vs. -1.18082
+w_eta_sb2 = -1.36839 vs. -1.36839
+
+ Check S0 Region
+Integral = 783.098
+Manual = 783.098
+Error = 115.331
+
+ Check S1 Region
+Integral = 69.437
+Manual = 69.437
+Error = 16.564
+
+ Check S2 Region
+Integral = 61.1528
+Manual = 61.1528
+Error = 13.698
+
+ Check B0 Region
+Integral = 58.354
+Manual = 58.354
+Error = 0.00332767
+
+ Check B1 Region
+Integral = 29.0723
+Manual = 29.0723
+Error = 2.43957e-06
+
+ Check B2 Region
+Integral = 33.6903
+Manual = 33.6903
+Error = 8.25836
+
+---- 
+---- 
+
